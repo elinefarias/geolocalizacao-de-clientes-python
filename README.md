@@ -13,13 +13,15 @@ Este é um projeto de geocodificação de endereços em Nova York, utilizando um
 
 1. Clone o repositório:
 
-```bash
+```
 git clone https://github.com/elinefarias/geolocalizacao-de-cilentes-python.git
+```
 
 2. Instale as dependências:
 
-```bash
+```
 pip install -r requirements.txt
+```
 
 ## Utilização
 
@@ -30,24 +32,12 @@ pip install -r requirements.txt
 ## Demonstração
 
 Aqui estão algumas imagens de demonstração do mapa criado:
-<ul>
-  <li>
-    <strong>Mapa 1:</strong>
-    <img src="assets/foto1.png" alt="Mapa 1" width="200">
-  </li>
-  <li>
-    <strong>Mapa 2:</strong>
-    <img src="assets/foto2.png" alt="Mapa 2" width="200">
-  </li>
-  <li>
-    <strong>Mapa 3:</strong>
-    <img src="assets/foto3.png" alt="Mapa 3" width="200">
-  </li>
-  <li>
-    <strong>Mapa 4:</strong>
-    <img src="assets/foto4.png" alt="Mapa 4" width="200">
-  </li>
-</ul>
+
+![Mapa 1](assets/foto1.png)
+![Mapa 2](assets/foto2.png)
+![Mapa 3](assets/foto3.png)
+![Mapa 4](assets/foto4.png)
+
 
 
 
