@@ -36,7 +36,6 @@ Aqui estão algumas imagens de demonstração do mapa criado:
 ![Mapa 1](assets/foto1.png)
 ![Mapa 2](assets/foto2.png)
 ![Mapa 3](assets/foto3.png)
-![Mapa 4](assets/foto4.png)
 
 
 
